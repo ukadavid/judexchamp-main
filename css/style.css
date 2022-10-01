@@ -161,6 +161,12 @@ ul{
         float: none;
         text-align: center;
     }
+    .header-section{
+        background-image: url(/Assets/pictures/mobile-back.png);
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        opacity: 0.9;
+    }
 }
 
 .ceo-other-picture{
